@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: Web Traff main website
+description: Web-Traff main website description
+url: https://web-traff.github.io
+author: MyName
+google_analytics: UA-212333621-1
+plugins:
+  - jekyll-seo-tag
