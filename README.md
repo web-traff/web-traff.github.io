@@ -1,10 +1,8 @@
 # web-traff.github.io
 
-web-traff.github.io
-
 [Repo](https://github.com/web-traff/web-traff.github.io)
 
-[Pages](./pages/readme.md)
+[Docs](./docs/index.md)
 
 
 <a href="https://trackgit.com">
