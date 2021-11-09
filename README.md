@@ -4,7 +4,7 @@ web-traff.github.io
 
 https://github.com/web-traff/web-traff.github.io
 
-[Pages](./pages)
+[Pages](./pages/readme.md)
 
 
 <a href="https://trackgit.com">
