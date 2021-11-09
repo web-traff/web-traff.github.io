@@ -2,7 +2,7 @@
 
 web-traff.github.io
 
-https://github.com/web-traff/web-traff.github.io
+[Repo](https://github.com/web-traff/web-traff.github.io)
 
 [Pages](./pages/readme.md)
 
